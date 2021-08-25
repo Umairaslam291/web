@@ -5,6 +5,7 @@ function Home()
     <>
     <Navbar />
     <h1>nav</h1>
+    <h2>umair aslam</h2>
     </>    
     );
 }
