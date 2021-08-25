@@ -10,4 +10,4 @@ function Home()
     );
 }
 export default Home;
-moiz haider
+moiz haider photographer
